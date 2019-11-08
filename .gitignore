@@ -78,3 +78,6 @@ typings/
 # VSCode files config
 .vscode
 
+# Yarn and NPM lock's file
+package-lock.json
+yarn.lock
