@@ -13,7 +13,7 @@ Projeto conta com as seguintes tecnologias:
 ## Principais Características
 * Seguindo padrão arquitetural da Airbnb;
 * Autenticação com JWT;
-* Migrations e conexão com o banco utiliznado Sequelize;
+* Migrations e conexão com o banco utilizando Sequelize;
 
 ## Configuração para Desenvolvimento
 Para que a aplicação funcione corretamente, é necessário utlizar o yarn/npm para instalar as dependências, configurar as credenciais do banco e executar as migrations.
